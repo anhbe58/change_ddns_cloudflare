@@ -1,0 +1,17 @@
+###########################################
+# bearer_token: Zone.DNS Settings, Zone.DNS
+# To get record_id use: https://api.cloudflare.com/client/v4/zones/[zone_id]/dns_records/
+# 			Header: "Authorization": "Bearer bearer_token"
+###########################################
+[tokens]
+zone_id=
+account_id=
+bearer_token=
+record_id=
+email_stmp=
+#######################################
+# Add emails here, key is not important
+#######################################
+[email]
+email1=zzz@gmail.com
+#email2=zzz@gmail.com
